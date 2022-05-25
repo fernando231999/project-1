@@ -1,0 +1,2 @@
+display
+play music
